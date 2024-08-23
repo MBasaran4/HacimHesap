@@ -4,6 +4,7 @@ import { IoMenu } from "react-icons/io5";
 import { FaMoon, FaArrowLeft } from "react-icons/fa6";
 import { MdOutlineWbSunny } from "react-icons/md";
 import "./Navbar.css";
+import "./MainPage.css";
 
 function Navbar() {
 
